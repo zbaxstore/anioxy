@@ -31,8 +31,8 @@ const SearchBar = () => {
 				<div className="flex w-full md:flex-nowrap gap-2 lg:w-1/2">
 					<Input
 						type="text"
-						label="Search for anime"
-						placeholder="Enter anime title here"
+						label="Cari Anime"
+						placeholder="Ketik judul anime disini"
 						autoComplete="off"
 						onKeyDown={async (event) => {
 							if (

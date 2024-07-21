@@ -5,13 +5,13 @@ import { lexend } from "../../config/fonts";
 import { Providers } from "./themeManager";
 
 export const metadata = {
-	title: "Dramalama",
+	title: "Anioxy",
 	description:
 		"Online service to watch kdramas and anime for free. You can also read and download mangas for free.",
 	generator: "Next.js",
-	applicationName: "Dramalama",
-	authors: [{ name: "zephex", url: "https://github.com/real-zephex" }],
-	creator: "Zephex",
+	applicationName: "Anioxy",
+	authors: [{ name: "Farel", url: "https://github.com/zbaxstore" }],
+	creator: "Farel",
 	keywords: [
 		"Kdrama",
 		"Anime",

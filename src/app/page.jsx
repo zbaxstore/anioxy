@@ -42,9 +42,9 @@ export default async function Home() {
 			<div className="text-center mt-2">
 				<p className="text-md text-gray-500">Welcome to</p>
 				<br />
-				<p className="mt-[-1.8rem] text-4xl">Dramalama</p>
+				<p className="mt-[-1.8rem] text-4xl">Anioxy</p>
 				<p className="mt-1 text-sm text-neutral-500">
-					Dramalama is a platform which lets you stream your favourite
+					Anioxy is a platform which lets you stream your favourite
 					content for free.
 				</p>
 			</div>

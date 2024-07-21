@@ -40,12 +40,12 @@ export default async function Home() {
 	return (
 		<main className="lg:w-7/12 m-auto">
 			<div className="text-center mt-2">
-				<p className="text-md text-gray-500">Welcome to</p>
+				<p className="text-md text-gray-500">Selamat Datang di</p>
 				<br />
 				<p className="mt-[-1.8rem] text-4xl">Anioxy</p>
 				<p className="mt-1 text-sm text-neutral-500">
-					Anioxy is a platform which lets you stream your favourite
-					content for free.
+					Anioxy adalah platform yang memungkinkan Anda melakukan streaming favorit Anda
+					konten secara gratis.
 				</p>
 			</div>
 
